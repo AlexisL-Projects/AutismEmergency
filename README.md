@@ -20,5 +20,5 @@ It shows easy-to-tap messages like “I am overwhelmed” or “I need space” 
 - **Custom Messages**: Add your own personalized messages.  
 - **Visual & Text Alerts**: Makes sure your need is clear even if you are nonverbal.  
 - **Large Buttons**: Designed for easy use and accessibility.
-- - **Works Offline**: No internet connection needed.
+- **Works Offline**: No internet connection needed.
     
