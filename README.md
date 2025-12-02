@@ -8,7 +8,7 @@ It shows easy-to-tap messages like “I am overwhelmed” or “I need space” 
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/IMG_2158.jpeg)
+![Home Screen](main/IMG_2158.jpeg)
 
 ---
 
