@@ -8,7 +8,10 @@ It shows easy-to-tap messages like “I am overwhelmed” or “I need space” 
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](main/IMG_2158.jpeg)
+![Home Screen](IMG_2158.jpeg)
+
+### Select Message
+![Select Message](IMG_2160.jpeg)
 
 ---
 
@@ -17,8 +20,3 @@ It shows easy-to-tap messages like “I am overwhelmed” or “I need space” 
 - **Custom Messages**: Add your own personalized messages.  
 - **Visual & Text Alerts**: Makes sure your need is clear even if you are nonverbal.  
 - **Large Buttons**: Designed for easy use and accessibility.  
- 
-
----
-
-
