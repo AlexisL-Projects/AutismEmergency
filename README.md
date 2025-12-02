@@ -10,9 +10,6 @@ It shows easy-to-tap messages like “I am overwhelmed” or “I need space” 
 ### Home Screen
 ![Home Screen](screenshots/IMG_2158.jpeg)
 
-### Select Message
-![Select Message](screenshots/IMG_2160.jpeg)
-
 ---
 
 ## ✨ Features
