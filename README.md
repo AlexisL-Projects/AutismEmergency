@@ -20,11 +20,8 @@ It shows easy-to-tap messages like “I am overwhelmed” or “I need space” 
 - **Custom Messages**: Add your own personalized messages.  
 - **Visual & Text Alerts**: Makes sure your need is clear even if you are nonverbal.  
 - **Large Buttons**: Designed for easy use and accessibility.  
-- **Works Offline**: No internet connection needed.  
+ 
 
 ---
 
-## 🛠️ How to Run
-1. Clone the project from GitHub:  
-```bash
-git clone https://github.com/yourusername/autism-emergency-app.git
+
